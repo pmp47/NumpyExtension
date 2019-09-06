@@ -1,1 +1,1 @@
-from numpyextension.numpyextension import *
+from .numpy_ext import *
